@@ -1,5 +1,6 @@
 # Install required packages (if not already installed)
 # pip install TTS streamlit
+pip install TTS
 
 import streamlit as st
 from TTS.api import TTS
